@@ -5,7 +5,7 @@ In this project, I've built an **Ecommerce Application** by applying the concept
 
 ### Application Video
 
-- [Click to view](https://assets.ccbp.in/frontend/content/react-js/nxt-trendz-cart-features-lg-output.png)
+- [Click to view](https://youtu.be/ke3oCd0q3aU)
 
 
 ### User Credentials
